@@ -4,9 +4,9 @@ const messages = [
     "Có đồng ý không?",
     "Đi mà...",
     "Cho 1 cơ hội đi mà!",
-    "Nếu bạn nói không, tôi rất buồn đấy...",
-    "Tôi sẽ rất buồn đấy...",
-    "Dỗi đấy...",
+    "Nếu cậu từ chối, tớ sẽ buồn lắm đấy...",
+    "Tớ sẽ rất buồn đấy...",
+    "Buồn lắm đấy...",
     "Thôi được rồi, tôi sẽ không hỏi nữa...",
     "Đùa thôi, đồng ý đi! ❤️"
 ];
